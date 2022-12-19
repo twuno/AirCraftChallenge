@@ -1,0 +1,14 @@
+{
+    "src": "https://aerobasegroup.com/tail-number-lookup",
+    "keys"
+    :[
+    "Tail Number",
+    "Serial Number",
+    "Manufacturer",
+    "Model",
+    "Engine Model",
+    "Name"
+    ],
+    "file":"tail_number.xls"
+
+}
